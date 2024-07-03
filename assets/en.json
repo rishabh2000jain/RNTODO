@@ -1,0 +1,12 @@
+{
+    "appName":"Todo App",
+    "pending":"Pending",
+    "completed":"Completed",
+    "addTodo":"Add Todo",
+    "enterTitle":"Enter Title",
+    "enterDescription":"Enter Description",
+    "pickDate":"Pick Date",
+    "pickTime":"Pick Time",
+    "notifyMe":"Notify Me",
+    "save":"Save"
+}

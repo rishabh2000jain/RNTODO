@@ -1,0 +1,12 @@
+{
+    "appName":"تطبيق تودو",
+    "pending":"قيد الانتظار",
+    "completed":"مكتمل",
+    "addTodo":"أضف تودو",
+    "enterTitle":"أدخل العنوان",
+    "enterDescription":"أدخل الوصف",
+    "pickDate":"اختر التاريخ",
+    "pickTime":"اختر وقت",
+    "notifyMe":"أشعرني، أعلمني، بلغني",
+    "save":"يحفظ"
+}
